@@ -60,14 +60,7 @@ public class ElevatorThread implements Runnable {
 		g.drawRect(posX, posY + 2, 50, 106);
 		g.drawLine(posX + 25, posY + 2, posX + 25, posY + LIFT_SIZE);
 		
-//		g.setColor(Color.BLACK);
-//		g.setColor(panel.getBackground());
-//		g.drawLine(posX + 25, posY + 2, posX + 25, posY + LIFT_SIZE);
-//		Thread.sleep(300);
-//		g.setColor(Color.BLACK);
-//		g.drawLine(posX + 25, posY + 2, posX + 25, posY + LIFT_SIZE);
-		// g.setColor(Color.WHITE);
-		// g.drawRect(posX+20, posY+20, 50, 110);
+
 	}	
 	public void clear(Graphics g)  {	
 		// удаление 
