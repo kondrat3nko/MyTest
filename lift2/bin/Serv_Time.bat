@@ -1,1 +1,0 @@
-net time \\server /set /y
